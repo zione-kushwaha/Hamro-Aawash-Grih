@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210575811537",
+    "project_id": "hamro-aawash-grihaa",
+    "storage_bucket": "hamro-aawash-grihaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210575811537:android:90deb2d6dcd7383a5db6f0",
+        "android_client_info": {
+          "package_name": "com.hamroaawashgrihaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmsjmfK8mgUuc2f8bLmAz0dV12Bd4NBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
